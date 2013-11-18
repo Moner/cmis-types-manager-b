@@ -8,7 +8,7 @@ import javax.faces.bean.RequestScoped;
 public class Repo {
     @EJB(name = "DagEJB")
     private Dag dag;
-    private String message = "Repo World!";
+    private String message = "Repo World!!!";
 
     public String getMessage() {
         return dag.getAllFolders();
