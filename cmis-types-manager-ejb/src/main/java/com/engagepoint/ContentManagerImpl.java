@@ -1,4 +1,4 @@
-package dag;
+package com.engagepoint;
 
 import org.apache.chemistry.opencmis.client.api.*;
 import org.apache.chemistry.opencmis.client.runtime.SessionFactoryImpl;
