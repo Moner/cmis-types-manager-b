@@ -37,6 +37,7 @@
         </dependency>
     </dependencies>
 
+
     <properties>
         <global.version>1.0-SNAPSHOT</global.version>
     </properties>
